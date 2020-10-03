@@ -1,2 +1,2 @@
 # croatia
-This repository is all about croatia
+#This project is all about croatia
